@@ -14,7 +14,7 @@
     "element-ui": "^2.11.0",
     "jquery": "^3.4.1",
     "mavon-editor": "^2.6.17",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "vue": "^2.6.10",
     "vue-axios": "^2.1.5",
     "vue-cropperjs": "^3.0.0",
